@@ -31,6 +31,7 @@ class Classifier(object):
         y : array-like, shape = [n_samples]
             Target values (true class labels).
 
+
         Returns
         ---------
         acc : float
